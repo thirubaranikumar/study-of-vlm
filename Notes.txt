@@ -1,0 +1,15 @@
+
+C4Model:
+https://c4model.com/
+
+webp to jpeg:
+https://www.canva.com/features/webp-to-jpg-converter/
+
+output render:
+https://structurizr.com/dsl
+
+structurizr lite:
+https://docs.structurizr.com/lite/installation
+
+structurizr cli:
+https://github.com/structurizr/cli/releases
