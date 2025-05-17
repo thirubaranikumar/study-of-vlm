@@ -1,4 +1,3 @@
-
 C4Model:
 https://c4model.com/
 
@@ -13,3 +12,46 @@ https://docs.structurizr.com/lite/installation
 
 structurizr cli:
 https://github.com/structurizr/cli/releases
+
+chatgpt link:
+https://chatgpt.com/share/68279cd3-0b0c-800f-98c6-34ade135b5cf
+
+mistralai link:
+https://chat.mistral.ai/chat/2649ae52-a529-4428-b8db-a5976f4afbbb
+
+Models:
+GPT4o-v
+NeXT-GPT:
+https://github.com/NExT-GPT/NExT-GPT
+cogVLM:
+https://github.com/THUDM/CogVLM
+https://huggingface.co/THUDM/cogvlm2-llama3-chat-19B/tree/main
+19 B params
+40 GB
+LLaVA:
+https://github.com/haotian-liu/LLaVA
+https://huggingface.co/llava-hf
+https://huggingface.co/liuhaotian
+https://llava-vl.github.io/
+Mistral:
+https://docs.mistral.ai/capabilities/vision/
+https://huggingface.co/mistralai/Pixtral-Large-Instruct-2411
+124 B params
+260 GB
+https://huggingface.co/mistralai/Pixtral-12B-Base-2409
+12 B params
+25 GB
+
+
+
+HF:
+https://huggingface.co/deepseek-ai/deepseek-vl-7b-chat/tree/main
+https://huggingface.co/deepseek-ai/deepseek-vl2/tree/main
+
+
+Reading Reference:
+What is MoE (Mixture of Experts):
+https://huggingface.co/papers/2401.06066
+
+ A dive into vision language models:
+https://huggingface.co/blog/vision_language_pretraining
